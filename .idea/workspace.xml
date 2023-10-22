@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd58758d-d61e-4120-8015-e3a883327aee" name="Changes" comment="amend sw 01">
-      <change beforePath="$PROJECT_DIR$/01_DataType/sw.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_DataType/sw.md" afterDir="false" />
-    </list>
+    <list default="true" id="dd58758d-d61e-4120-8015-e3a883327aee" name="Changes" comment="amend sw 01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
