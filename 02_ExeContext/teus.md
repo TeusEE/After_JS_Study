@@ -29,17 +29,12 @@ console.log(a); //1
 ```
 위 코드를 실행하면 1️⃣위치에서 아래처럼 Context가 변하게 됩니다.
 
-<table>
-    <td>
-        <tr>inner() Context</tr>
-    </td>
-    <td>
-        <tr>outer() Context</tr>
-    </td>
-    <td>
-        <tr>Global Context</tr>
-    </td>
-</table>
+inner() Context
+↑
+outer() Context
+↑
+Global Context
+
 
 이때 Stack 최 상단에는 inner에 해당하는 Context가 존재하고
 
