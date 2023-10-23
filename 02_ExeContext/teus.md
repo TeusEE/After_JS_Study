@@ -29,10 +29,10 @@ console.log(a); //1
 ```
 위 코드를 실행하면 1️⃣위치에서 아래처럼 Context가 변하게 됩니다.
 
-inner() Context
-↑
-outer() Context
-↑
+inner() Context<br>
+↑<br>
+outer() Context<br>
+↑<br>
 Global Context
 
 
